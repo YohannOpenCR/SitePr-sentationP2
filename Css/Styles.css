@@ -24,11 +24,12 @@ a {
 .headerImg {
     grid-area: logo;
     text-align: center;
-    height: 150px;
+    height: auto;
     width: 200px;
     padding: 0px;
     margin: 0px;
     object-fit: cover;
+    color: #F2F2F2;
    
 }
 
